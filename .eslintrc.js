@@ -29,6 +29,8 @@ module.exports = {
     'arrow-spacing': [
       'error', { 'before': true, 'after': true }
     ],
-    'no-console': 0
+    'array-bracket-spacing': ['error', 'never'],
+    'no-console': 0,
+    'eol-last': ['error', 'always']
   }
 }
